@@ -7,3 +7,6 @@ Talent - это Landing Page, адаптивен под разные устро�
 2. CSS
 3. JavaScript
 4. jQuery
+
+
+Посмотреть можно по ссылке: https://jumbee1573.github.io/talent/
