@@ -7,4 +7,3 @@ Talent - это Landing Page, адаптивен под разные устро�
 2. CSS(SCSS)
 3. JavaScript
 4. jQuery
-5. Gulp
